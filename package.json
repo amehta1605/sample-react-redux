@@ -8,7 +8,7 @@
     "build": "webpack -p"
   },
   "keywords": [],
-  "author": "Ankit Mehta  a.mehta.1605@icloud.com",
+  "author": "Ankit Mehta a.mehta.1605@icloud.com",
   "license": "MIT",
   "dependencies": {
     "alt": "^0.18.6",
